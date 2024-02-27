@@ -1,2 +1,35 @@
-
-/* Your CSS Code here. */
+.holder{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.box1{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+.box2{
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+}
+.box3{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+}
+.box4{
+    width: 200px;
+    height: 200px;
+    background-color: teal;
+}
+.box5{
+    width: 200px;
+    height: 200px;
+    background-color: black;
+}
+.box6{
+    width: 200px;
+    height: 200px;
+    background-color: brown;
+}
